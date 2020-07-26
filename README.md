@@ -1,1 +1,2 @@
-# Py_Interface368
+# COSC368
+Interface Design (Python Tkinter)
